@@ -1,6 +1,6 @@
 # 🎲 D&D Attribute Roller
  
-> Part of [python_personal_projects]([../](https://github.com/guilhermegonwiemes/python_personal_projects/tree/main))
+> Part of [python_personal_projects](https://github.com/guilhermegonwiemes/python_personal_projects)
  
 A command-line tool that simulates the **5d6 drop two lowest** method for generating Dungeons & Dragons character attributes — rolling 5 dice and keeping only the 3 highest results.
  
