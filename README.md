@@ -23,4 +23,4 @@ A collection of personal Python projects developed independently, beyond coursew
 **Guilherme Gon Wiemes**
 - High School student with a Technical Course in Systems Development (SESI/SENAI — Joinville, SC, Brazil)
 - Self-driven programmer building projects beyond coursework
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@guilhermegonwiemes](https://github.com/guilhermegonwiemes)
